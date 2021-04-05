@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: ydorene <ydorene@student.42.fr>            +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2021/01/25 15:57:30 by ydorene           #+#    #+#              #
-#    Updated: 2021/01/27 16:16:14 by ydorene          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 NAME	= libftprintf.a
 SRC		= ft_printf.c type_d.c specifierall.c atoistrchrstrlen.c itoamodstruct.c print_d.c shir_tochn.c type_u.c type_s.c type_c.c type_x.c type_p.c
 
